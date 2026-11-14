@@ -1,0 +1,23 @@
+[2026-11-14 08:30:50] ========================================================================================================
+[2026-11-14 08:30:50] === TREND BOT | 20 assets | mom 250d | ER gate 50% | trail arms 1.0R gives 0.5R | 4 legs | rebal 10d ===
+[2026-11-14 08:30:57]   bar date 2026-11-13 | 20 assets priced | 13 trending enough to trade
+[2026-11-14 08:30:57]   [main] gate blocked 7/20 as too choppy: DIA, EFA, FXI, IWM, SPY, USO, XLE
+[2026-11-14 08:30:57]   [main] LONG  SMH(+0.26), XLV(+0.14), XLP(+0.12), XLF(+0.04)
+[2026-11-14 08:30:57]   [main] ENTER XLP   LONG  @    92.350  R   4.483  qty    16.729  stop    87.867
+[2026-11-14 08:30:57]   [main] ENTER SMH   LONG  @   486.750  R  72.649  qty     1.032  stop   414.101
+[2026-11-14 08:30:57]   [main] ENTER XLV   LONG  @   188.850  R   9.960  qty     7.530  stop   178.890
+[2026-11-14 08:30:57]   [main] ENTER XLF   LONG  @    58.680  R   2.673  qty    28.056  stop    56.007
+[2026-11-14 08:30:57]   [main] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 4 open | expR +0.000 over 0
+[2026-11-14 08:30:57]   [ls  ] gate blocked 7/20 as too choppy: DIA, EFA, FXI, IWM, SPY, USO, XLE
+[2026-11-14 08:30:57]   [ls  ] LONG  SMH(+0.26), XLV(+0.14), XLP(+0.12), XLF(+0.04)
+[2026-11-14 08:30:57]   [ls  ] SHORT TLT(-0.16), GLD(-0.15), SLV(-0.13), IEF(-0.12)
+[2026-11-14 08:30:57]   [ls  ] ENTER XLP   LONG  @    92.350  R   4.483  qty    16.729  stop    87.867
+[2026-11-14 08:30:57]   [ls  ] ENTER SMH   LONG  @   486.750  R  72.649  qty     1.032  stop   414.101
+[2026-11-14 08:30:57]   [ls  ] ENTER IEF   SHORT @    90.040  R   1.466  qty    51.153  stop    91.506
+[2026-11-14 08:30:57]   [ls  ] ENTER XLV   LONG  @   188.850  R   9.960  qty     7.530  stop   178.890
+[2026-11-14 08:30:57]   [ls  ] ENTER XLF   LONG  @    58.680  R   2.673  qty    28.056  stop    56.007
+[2026-11-14 08:30:57]   [ls  ] ENTER TLT   SHORT @    79.380  R   2.384  qty    31.460  stop    81.764
+[2026-11-14 08:30:57]   [ls  ] ENTER GLD   SHORT @   355.450  R  20.806  qty     3.605  stop   376.256
+[2026-11-14 08:30:57]   [ls  ] ENTER SLV   SHORT @    44.130  R   4.587  qty    16.352  stop    48.717
+[2026-11-14 08:30:57]   [ls  ] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 8 open | expR +0.000 over 0
+[2026-11-14 08:30:57] === tick done ===
