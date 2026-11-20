@@ -45,3 +45,15 @@
 [2026-11-19 03:22:05]   [ls  ] holding 8, next rebalance in 7 days
 [2026-11-19 03:22:05]   [ls  ] realized $10000.00 (+0.00%) | mark-to-market $9879.93 (-1.20%) | 8 open | expR +0.000 over 0
 [2026-11-19 03:22:05] === tick done ===
+[2026-11-20 03:08:54] ========================================================================================================
+[2026-11-20 03:08:54] === TREND BOT | 20 assets | mom 250d | ER gate 50% | trail arms 1.0R gives 0.5R | 4 legs | rebal 10d ===
+[2026-11-20 03:09:03]   bar date 2026-11-19 | 20 assets priced | 14 trending enough to trade
+[2026-11-20 03:09:04]   [main] EXIT  XLV   LONG  @   178.890  stop     -1.00R  PnL   -76.42  equity   9923.58  (WR 0/1)
+[2026-11-20 03:09:04]   [main] EXIT  XLF   LONG  @    56.007  stop     -1.00R  PnL   -76.65  equity   9846.93  (WR 0/2)
+[2026-11-20 03:09:04]   [main] holding 2, next rebalance in 6 days
+[2026-11-20 03:09:04]   [main] realized $9846.93 (-1.53%) | mark-to-market $9764.74 (-2.35%) | 2 open | expR -1.000 over 2
+[2026-11-20 03:09:04]   [ls  ] EXIT  XLV   LONG  @   178.890  stop     -1.00R  PnL   -76.42  equity   9923.58  (WR 0/1)
+[2026-11-20 03:09:04]   [ls  ] EXIT  XLF   LONG  @    56.007  stop     -1.00R  PnL   -76.65  equity   9846.93  (WR 0/2)
+[2026-11-20 03:09:04]   [ls  ] holding 6, next rebalance in 6 days
+[2026-11-20 03:09:04]   [ls  ] realized $9846.93 (-1.53%) | mark-to-market $9840.81 (-1.59%) | 6 open | expR -1.000 over 2
+[2026-11-20 03:09:04] === tick done ===
