@@ -68,3 +68,13 @@
 [2026-11-21 03:12:11]   [ls  ] holding 4, next rebalance in 5 days
 [2026-11-21 03:12:11]   [ls  ] realized $9691.82 (-3.08%) | mark-to-market $9829.61 (-1.70%) | 4 open | expR -1.000 over 4
 [2026-11-21 03:12:11] === tick done ===
+[2026-11-24 05:58:50] ========================================================================================================
+[2026-11-24 05:58:50] === TREND BOT | 20 assets | mom 250d | ER gate 50% | trail arms 1.0R gives 0.5R | 4 legs | rebal 10d ===
+[2026-11-24 05:58:59]   bar date 2026-11-23 | 20 assets priced | 14 trending enough to trade
+[2026-11-24 05:58:59]   [main] holding 1, next rebalance in 4 days
+[2026-11-24 05:58:59]   [main] realized $9771.43 (-2.29%) | mark-to-market $9738.47 (-2.62%) | 1 open | expR -1.000 over 3
+[2026-11-24 05:58:59]   [ls  ] EXIT  GLD   SHORT @   331.353  stop     +1.16R  PnL   +85.58  equity   9777.41  (WR 1/5)
+[2026-11-24 05:58:59]   [ls  ] EXIT  SLV   SHORT @    39.103  stop     +1.10R  PnL   +81.47  equity   9858.88  (WR 2/6)
+[2026-11-24 05:58:59]   [ls  ] holding 2, next rebalance in 4 days
+[2026-11-24 05:58:59]   [ls  ] realized $9858.88 (-1.41%) | mark-to-market $9753.25 (-2.47%) | 2 open | expR -0.291 over 6
+[2026-11-24 05:58:59] === tick done ===
