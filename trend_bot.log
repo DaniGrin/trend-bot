@@ -95,3 +95,9 @@
 [2026-11-26 04:08:43]   [ls  ] holding 1, next rebalance in 2 days
 [2026-11-26 04:08:43]   [ls  ] realized $9781.38 (-2.19%) | mark-to-market $9780.55 (-2.19%) | 1 open | expR -0.392 over 7
 [2026-11-26 04:08:43] === tick done ===
+[2026-11-27 04:14:02] ========================================================================================================
+[2026-11-27 04:14:02] === TREND BOT | 20 assets | mom 250d | ER gate 50% | trail arms 1.0R gives 0.5R | 4 legs | rebal 10d ===
+[2026-11-27 04:14:10]   bar date 2026-11-25 | 20 assets priced | 15 trending enough to trade
+[2026-11-27 04:14:10]   [main] 2026-11-25 already processed - skipping
+[2026-11-27 04:14:10]   [ls  ] 2026-11-25 already processed - skipping
+[2026-11-27 04:14:10] === tick done ===
